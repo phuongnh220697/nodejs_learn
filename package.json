@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuongnh220697/nodejs_learn.git"
+  },
+  "keywords": [
+    "nodejs",
+    "nodejs_learn"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phuongnh220697/nodejs_learn/issues"
+  },
+  "homepage": "https://github.com/phuongnh220697/nodejs_learn#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
